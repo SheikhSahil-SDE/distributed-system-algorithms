@@ -129,7 +129,7 @@
 - [ ] 73. **Multi-Paxos** - Optimized Paxos variant for multiple consensus rounds with stable leader.
 - [ ] 74. **Fast Paxos** - Reduces message delays in Paxos by allowing coordinators to bypass leaders.
 - [ ] 75. **Flexible Paxos** - Generalizes quorum requirements for different phases of Paxos.
-- [ ] 76. **Mencius** - Multi-leader consensus protocol for high throughput.
+- [ 1 ] 76. **Mencius** - Multi-leader consensus protocol for high throughput.
 - [ ] 77. **HoneyBadgerBFT** - Asynchronous BFT consensus with optimal resilience.
 - [ ] 78. **Tendermint** - Byzantine consensus protocol used in blockchain systems.
 - [ ] 79. **Hotstuff** - Linear-view-change BFT protocol with improved efficiency.
